@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "78a992e3f13c5628",
+    "type": "split",
+    "children": [
+      {
+        "id": "5df01d699ea3f7eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e98ec5d6d5f44ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Projets/redactions/Le coli mystère.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3701128d5797a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Projets/redactions/Le coli mystère.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fec1098706c462a",
+    "type": "split",
+    "children": [
+      {
+        "id": "615fd5663aa9e9bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b819b779e56e8923",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60a590cfe1ba8f22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "781d3fe3d47048f3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bf0ca40676abd37",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae5d1062fe751c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c97f222fa3988537",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.Projets/redactions/Le coli mystère.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf8a1aa0459d22a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01.Projets/redactions/Le coli mystère.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6993e5aef03edd11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c0a463f9f085af43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01.Projets/redactions/Le coli mystère.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c3701128d5797a1c",
+  "lastOpenFiles": [
+    "01.Projets/redactions/Je trouve personne à l'école.md",
+    "01.Projets/redactions/Le coli mystère.md",
+    "01.Projets/0.1 reponse/reponse.md",
+    "01.Projets/TRAVAIL.md",
+    "01.Projets/MATHEMATIQUE.md",
+    "01.Projets/FRANCAIS.md",
+    "01.Projets/NKBYIBO.md",
+    "01.Projets/REPONSE/Sans titre.md",
+    "01.Projets/MATHEMATIQUE/Sans titre.md"
+  ]
+}
